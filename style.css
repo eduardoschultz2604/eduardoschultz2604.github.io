@@ -19,13 +19,13 @@ body{
 
 header{
 	background-color: #1E90FF;
-	min-height: 120px;
+	max-height: 120px;
 	padding: 10px;
 }
 footer{
 	clear: both;
 	background-color: #1E90FF;
-	min-height: 30px;
+	max-height: 30px;
 	text-align: center;
 	padding: 5px;
 }
